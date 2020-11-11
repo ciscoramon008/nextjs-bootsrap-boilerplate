@@ -1,0 +1,15 @@
+.navbar_wrapper {
+  height: 100%;
+  width: 100%;
+  max-width: 1500px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar_links {
+  flex-direction: row;
+}
+
+.navbar_item_custom {
+  margin: 0 10px;
+}
